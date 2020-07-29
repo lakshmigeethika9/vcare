@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"f",
+				"floating"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/geethikatripuramallu/Desktop/V-care/mystyles.css",
+		"/Users/geethikatripuramallu/Desktop/V-care/hr.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/index.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/finance.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/clinicalservices.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/header.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/checkin.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/healthrecords.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/physiciansystem.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/facilities.html",
+		"/Users/geethikatripuramallu/Desktop/V-care/ht.html",
+		"/Users/geethikatripuramallu/workspace/Teja's Personal-Website/index.html",
+		"/Users/geethikatripuramallu/workspace/wikipediaviewer/scripts/wiki.js",
+		"/Users/geethikatripuramallu/workspace/wikipediaviewer/styles/mystyles.css",
+		"/Users/geethikatripuramallu/workspace/wikipediaviewer/index.html",
+		"/Users/geethikatripuramallu/workspace/random quote generator/scripts/quotegen.js",
+		"/Users/geethikatripuramallu/workspace/random quote generator/index.html",
+		"/Users/geethikatripuramallu/workspace/problems/leetcode/344.py",
+		"/Users/geethikatripuramallu/Downloads/339.py",
+		"/Users/geethikatripuramallu/Downloads/part1.html",
+		"/Users/geethikatripuramallu/Desktop/jstest.html",
+		"/Users/geethikatripuramallu/Downloads/_a470d2e8498f214c74c8e490161ef8c8_02_Introduction_to_JavaScript/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/02_alert.html",
+		"/Users/geethikatripuramallu/Downloads/part2.html",
+		"/Users/geethikatripuramallu/Desktop/preview.html",
+		"/Users/geethikatripuramallu/Desktop/test.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-02_multimedia/02_multimedia/1-2-1_images/04_html_example_image.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-02_multimedia/02_multimedia/1-2-2_audio/02_html_example_audio.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-02_multimedia/02_multimedia/1-2-2_audio/01_html_example_audio.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-02_multimedia/02_multimedia/1-2-1_images/01_html_example_image.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/01_html_example_text.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-01_the_basics_of_html/01_the_basics_of_html/1-1-2_getting_to_know_html/01_html_example_web_page.html",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-01_the_basics_of_html/01_the_basics_of_html/1-1-1_about_html/02_html_example_web_page_using_svg.svg",
+		"/Users/geethikatripuramallu/Downloads/_2b65eea5f1fefa31bf9959ad25dcdc8f_01_HTML_and_CSS/1-01_the_basics_of_html/01_the_basics_of_html/1-1-1_about_html/01_html_example_web_page_using_svg.svg",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4p8.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4p7.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4p6.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4p5.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4p4.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/test1.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex4bases.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex3p6.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex3p3.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/progfun.c",
+		"/Users/geethikatripuramallu/Desktop/cprog/ex3p5.c"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

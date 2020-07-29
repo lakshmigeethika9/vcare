@@ -37,7 +37,7 @@
                       <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                        <li class="dropdown-item"><a href="physiciansystem.html">Physician System</a></li>
                         <li  class="dropdown-item"><a href="facilities.html">Facilities Management</a></li>
-                        <li  class="dropdown-item"><a href="hr.html">Human Resources</a></li>
+                        <li  class="dropdown-item"><a href="hr.html">Insurance Providers</a></li>
                         <li  class="dropdown-item"><a href="finance.html">Finance & Accounting</a></li>
 
              </ul>
@@ -60,7 +60,17 @@
                        <p>
                        The telemedicine app would allow patients to check-in, book appointments, enter their details for a preliminary diagnostic check with the assigned doctor.
                     </p>
+                        <div class="login col-xs-12 text-center">
+                        <form>
+                            <input type="text" id="login" class="fadeIn second" name="login" placeholder="Name">
+                            <input type="text" class="fadeIn third" name="login" placeholder="Phone">
 
+                            <input type="text"  class="fadeIn second" name="login" placeholder="Insurance provider">
+
+                            <input type="text" id="password" class="fadeIn third" name="login" placeholder="Reason for visit">
+                            <input onclick="window.location='../v-care/healthrecords.html'" class="fadeIn fourth submit test" value="Check In">
+                        </form>
+                        </div>
 
 
                     </div>

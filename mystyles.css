@@ -45,7 +45,7 @@ body {
     color: white;
     border-bottom: 1px dotted white;
     height: 100%;
-    display: flex;
+    position: relative;
 }
 #home p {
     font-size: 28px;
@@ -81,7 +81,30 @@ h3 {
     display: inline-block;
   
 }
+.login {
 
+    background: black;
+    width: 100%;
+    margin: 200px auto 0 auto;
+    text-align: center;
+}
+
+.login form{
+    display: flex;
+    flex-direction: column;
+}
+.login  input {
+    margin: 10px auto;
+    width: 50%;
+
+}
+
+.login .submit{
+    background: blue;
+}
+a.underlineHover{
+    text-decoration: underline;
+}
 /*portfolio styling*/
 
 #portfolio {
@@ -216,5 +239,17 @@ h3 {
     border-style: groove;
     border-color: black;
     /*    width:55px;*/
+}
+
+ul.statements li{
+    text-decoration: underline;
+    font-size: 20px;
+    width: 130px;
+}
+
+ul.facilities li{
+    text-decoration: underline;
+    font-size: 20px;
+    width: 400px;
 }
 
